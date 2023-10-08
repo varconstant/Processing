@@ -5,7 +5,7 @@ Download it from here -> https://processing.org/download
 1) ### Snake Game
    - Same as the old game we all played in childhood.
    - I used the latest processing 4 which is run on jdk 17.
-   - you can also try with [apple silicon version](https://github.com/varconstant/Processing/blob/main/snake_game/macos-aarch64.zip) or [windows version](https://github.com/varconstant/Processing/blob/main/snake_game/windows-amd64.zip) included in the project as zips.
+   - you can also try [app](https://github.com/varconstant/Processing/tree/main/snake_game/app) directly for your system.
    - Controls are the same: UP, DOWN, LEFT, RIGHT arrow keys of the keyboard. <br />
      <br />
    
