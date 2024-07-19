@@ -1,5 +1,5 @@
 # Processing
-My own projects on processing platform. You can import my projects into processing to run it without any glitches.
+My own projects on processing platform. You can import my projects into processing to run it without any glitch.
 Download it from here -> https://processing.org/download
 
 1) ### Snake Game
